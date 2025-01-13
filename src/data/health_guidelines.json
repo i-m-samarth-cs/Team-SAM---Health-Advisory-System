@@ -1,0 +1,75 @@
+{
+    "heart_rate": {
+      "normal_range": {
+        "min": 60,
+        "max": 100,
+        "description": "Normal resting heart rate for adults"
+      },
+      "recommendations": {
+        "high": [
+          "Take slow, deep breaths for 2-3 minutes",
+          "Sit down and rest for 5-10 minutes",
+          "Stay hydrated and avoid caffeine",
+          "If persistent, consult a healthcare provider"
+        ],
+        "low": [
+          "Gradually increase physical activity",
+          "Stay hydrated",
+          "Monitor for symptoms like dizziness",
+          "Consult healthcare provider if concerned"
+        ]
+      }
+    },
+    "spo2": {
+      "normal_range": {
+        "min": 95,
+        "max": 100,
+        "description": "Normal blood oxygen saturation"
+      },
+      "recommendations": {
+        "low": [
+          "Practice deep breathing exercises",
+          "Sit upright to improve lung expansion",
+          "Move to well-ventilated area",
+          "Seek immediate medical attention if below 90%"
+        ]
+      }
+    },
+    "activity_levels": {
+      "daily_goals": {
+        "steps": 10000,
+        "active_minutes": 30
+      },
+      "recommendations": {
+        "sedentary": [
+          "Take a 5-minute walk every hour",
+          "Do simple stretching exercises",
+          "Stand while taking phone calls",
+          "Use stairs instead of elevator"
+        ],
+        "moderate": [
+          "Maintain current activity level",
+          "Include variety in exercises",
+          "Stay hydrated during activities",
+          "Listen to your body's signals"
+        ],
+        "high": [
+          "Ensure proper rest between activities",
+          "Monitor heart rate during exercise",
+          "Maintain proper nutrition",
+          "Include recovery days in routine"
+        ]
+      }
+    },
+    "stress_levels": {
+      "management_techniques": [
+        "Practice deep breathing exercises",
+        "Take regular breaks",
+        "Maintain a consistent sleep schedule",
+        "Engage in physical activity",
+        "Try meditation or mindfulness",
+        "Connect with friends or family",
+        "Limit caffeine and screen time"
+      ]
+    }
+  }

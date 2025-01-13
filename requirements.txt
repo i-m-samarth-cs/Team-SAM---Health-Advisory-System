@@ -1,0 +1,11 @@
+# requirements.txt
+pathway==1.2.0
+streamlit==1.24.0
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.15.0
+faker==19.2.0
+python-dotenv==1.0.0
+openai==0.27.8
+pytz==2023.3
+requests==2.31.0
