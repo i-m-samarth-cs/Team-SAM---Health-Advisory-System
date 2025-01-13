@@ -4,7 +4,7 @@ A real-time health monitoring and advisory system built with Pathway and Streaml
 
 PPT - https://my.visme.co/view/ojk38097-health-advisory-system-using-pathway-and-rag-model
 Video demo - https://drive.google.com/file/d/18fBcBoBcjEKW0PABYutXmMzzAlyfvLO1/view?usp=drive_link
-Github Repo Link -  
+Github Repo Link - https://github.com/i-m-samarth-cs/Team-SAM---Health-Advisory-System 
 ## Features
 
 - Real-time health data monitoring
